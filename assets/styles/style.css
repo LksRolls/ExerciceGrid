@@ -39,6 +39,12 @@ div{
     background-color: red;  
 }
 
+#Velodrome {
+    background-image: url('velodrome.png');
+    background-size: cover; 
+    background-position: center; 
+}
+
 div{
     border: 3px solid black;
 }
